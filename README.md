@@ -19,3 +19,7 @@ Their Marketing team is responsible for increasing brand awareness, market share
 
 ### Tools used to complete the project:
 I utilized Tableau to create visualization report to explain my insights to the target audience
+
+### Interactive dashboard :
+https://public.tableau.com/app/profile/sarojini.mandapati/viz/reportcodex/Story1
+
